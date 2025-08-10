@@ -1,7 +1,7 @@
 ## Howdy!👋 I'm Tristen!
 
 ## About me:
-I am a 4th year Software Engineering major at RIT!  I currently specialize in automation and full-stack web development.<br>I have interned for M&T Bank two Summers in a row (2024/2025), and an incoming full-stack intern for Innovative Systems. I am currently looking for a Spring 2026 and/or Summer 2026 co-op!
+I am a 4th year Software Engineering major at RIT!  I currently specialize in automation and full-stack web development. <br>I have interned for M&T Bank two Summers in a row (2024/2025), and an incoming full-stack intern for Innovative Systems. <br>I am currently looking for a Spring 2026 and/or Summer 2026 co-op!
 
 I am fluent in these languages...<br>
 [![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
