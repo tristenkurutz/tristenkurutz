@@ -19,9 +19,9 @@ I am knowledgable in these languages...<br>
 
 I am knowledgable in these frameworks...<br>
 [![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
 [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
 [![JavaFx](https://img.shields.io/badge/javafx-%23FF0000.svg?style=flat&logo=javafx&logoColor=white)](https://img.shields.io/badge/javafx-%23FF0000.svg?style=flat&logo=javafx&logoColor=white)
-[![Maven](https://img.shields.io/badge/apachemaven-C71A36.svg?style=flat&logo=apachemaven&logoColor=white)](https://img.shields.io/badge/apachemaven-C71A36.svg?style=flat&logo=apachemaven&logoColor=white)
 <br>
 [![P5js](https://img.shields.io/badge/p5.js-ED225D?style=flat&logo=p5.js&logoColor=FFFFFF)](https://img.shields.io/badge/p5.js-ED225D?style=flat&logo=p5.js&logoColor=FFFFFF)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
@@ -47,6 +47,7 @@ I am knowledgable in these technologies...<br>
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 <br>
 [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
+[![Maven](https://img.shields.io/badge/apachemaven-C71A36.svg?style=flat&logo=apachemaven&logoColor=white)](https://img.shields.io/badge/apachemaven-C71A36.svg?style=flat&logo=apachemaven&logoColor=white)
 
 I am learning these languages...<br>
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white)](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
