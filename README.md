@@ -1,7 +1,7 @@
 ## Howdy!👋 I'm Tristen!
 
 ## About me:
-I am a senior Software Engineering major at RIT!  I currently specialize in automation and full-stack web development. <br>I have interned for M&T Bank two Summers in a row (2024/2025), and have been a full-stack intern for Innovative Systems. <br>I am currently interning at Benco Dental as a frontend dev on their internal applications team, and will be interning again at M&T Bank this Summer (2026).
+I am a senior Software Engineering major at RIT!  I currently specialize in automation and full-stack web development. <br>I have interned for M&T Bank two Summers in a row (2024/2025), and have been a full-stack intern for Innovative Systems. <br>I am currently interning at Benco Dental as a frontend dev on their internal applications team, and will be interning again at M&T Bank this Summer (2026). Currently looking for full-time as I graduate in Fall 2026!
 
 I am knowledgable in these languages...<br>
 [![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
