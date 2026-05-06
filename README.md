@@ -6,7 +6,6 @@ I am a senior Software Engineering major at RIT!  I currently specialize in auto
 I am knowledgable in these languages...<br>
 [![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 <br>
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
@@ -32,6 +31,7 @@ I am knowledgable in these frameworks...<br>
 
 I am knowledgable in these technologies...<br>
 [![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white)](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
@@ -50,6 +50,7 @@ I am knowledgable in these technologies...<br>
 [![Maven](https://img.shields.io/badge/apachemaven-C71A36.svg?style=flat&logo=apachemaven&logoColor=white)](https://img.shields.io/badge/apachemaven-C71A36.svg?style=flat&logo=apachemaven&logoColor=white)
 
 I am learning these languages...<br>
+[![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white)](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
 
 <!--
